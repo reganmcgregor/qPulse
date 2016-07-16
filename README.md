@@ -20,4 +20,4 @@ All the information contained in the system have tables of associated data to ma
 **Regan McGregor**
 
 * <https://twitter.com/Ram_976>
-* <https://github.com/reganmcgegor>
+* <https://github.com/reganmcgregor>
